@@ -1,2 +1,2 @@
-# python_prohect
+# python_projects
 basic python
